@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(255, 255, 255);
+    border: 10px 10px 10px 10px darkblue;
+    background-image: url(backgroundimg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.projecttitle {
+    font-size: 40px;
+    color: white;
+    text-decoration: double underline black;
+}
+
+li {
+    font-size: 15px;
+    color: dimgray;
+    font-family: monospace;
+    padding: 3px;
+    font-weight: bolder;
+}
+
+.video1 {
+    border: 10px solid black;
+    float: left;
+}
+
+.itemtitle {
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bolder;
+    color: rgb(28, 70, 160);
+
+}
+
+.clickhere {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: rgb(28, 70, 160);
+    color:white;
+    margin-left: 520px;
+    text-align: center;
+}
+
+.clickheretitle {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+
+
+}
+
+.method {
+    font-size: 23px;
+    font-family: monospace;
+    color: white;
+    background-color: rgb(28, 70, 160)  ;
+    padding: 10px;
+
+
+}
+
+.methodtitle {
+    font-size: 40px;
+    font-family: monospace;
+    color:black;
+    font-weight: bold;
+    padding: 10px;
+}
+.projecttitle2 {
+    font-size: 40px;
+    color: white;
+    text-decoration: double rgb(28, 70, 160);
+    text-decoration: double underline black;
+}
+.video2{
+    border: 10px solid black;
+    float: right;
+}
+
+.itemtitle2 {
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bolder;
+    color: rgb(28, 70, 160);
+
+}
+
+.clickhere2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    background-color: rgb(28, 70, 160);
+    color:white;
+    margin-left: 520px;
+    text-align: center;
+}
+
+.clickheretitle2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+
+
+}
+
+.method2 {
+    font-size: 23px;
+    font-family: monospace;
+    color: white;
+    background-color: rgb(28, 70, 160)  ;
+    padding: 10px;
+
+
+}
+
+.methodtitle2 {
+    font-size: 40px;
+    font-family: monospace;
+    color:black;
+    font-weight: bold;
+}
+
+ul {
+    margin: 0%;
+    list-style-type: none;
+    padding: 0px;
+    border: 0px;
+    background-color:rgb(28, 70, 160);
+
+
+
+
+}
+
+
+li {
+    display: inline-block;
+    margin: 0%;
+    text-decoration: none;
+    padding: 8px;
+
+
+
+
+}
+
+li a {
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.active {
+    background-color: green;
+}
+
+li a:hover {
+    background-color: dimgray;
+}
+
+ol li {
+    color:rgb(28, 70, 160);
+    background-color: white;
+    display: list-item;
+    padding: 10px;
+}

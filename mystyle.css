@@ -1,0 +1,276 @@
+title {
+    
+    font-family: cursive;
+    color:rgb(28, 70, 160);
+    margin:auto;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    border: 10px 10px 10px 10px darkblue;
+    background-image: url(backgroundpic2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}
+
+.titlename{
+    height: 450px;
+    width: 100%;
+    padding: 10px;
+    align-content: center;
+    margin: 10px;
+    border:double 10px white;
+}
+.titleintro{
+    height: 400px;
+    width: 100%;
+    align-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    font-size: 35px;
+    color:rgb(28, 70, 160);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+
+
+}
+.introduction::first-letter{
+    font-size: 60px;
+    font-weight: 900;
+    padding: 10px 5px 05px 0px;
+    float: left;
+    line-height: 25px;
+    color: black;
+}
+.introduction::first-line{
+    text-decoration: underline;
+    color: gray;
+   
+}
+
+.introduction {
+    font-size: 40px;
+    font-family:fantasy;
+    color: rgb(28, 70, 160);
+    background-color: white;
+  
+
+}
+.mytext::first-letter{
+    font-size: 60px;
+    font-weight: bolder;
+    line-height: 25px;
+    float: left;
+    padding: 4px;
+}
+.img2{
+    width: 1200px ;
+    height: 500px ;
+    border: 10px 10px 10px 10px coral ;
+    margin-left: 70px;
+    border-radius: 10px;
+
+    
+}
+h3 {
+    font-size: 35px;
+    color:rgb(28, 70, 160);
+    font-weight: bolder;
+    text-underline-position: below;
+    font-family: cursive;
+
+    
+
+}
+.socialmediapic{
+    height: 50%;
+    width: 50%;
+    padding: 10px;
+    margin-left: 250px;
+}
+.socialacc{
+    font-size: 30px;
+    font-family: sans-serif;
+    color:black;
+    text-decoration: rgb(255, 255, 255);
+
+
+}
+
+.youtubeacc{
+    font-size: 40px;
+    text-align: center;
+    color:black;
+    font-weight: bolder;
+    
+}
+.tiktokacc{
+    font-size: 40px;
+    text-align:center;
+    color:black;
+    font-weight: bolder;
+}
+
+.youtubelink{
+    text-align: center;
+    margin-left: 525px;
+    background-color: rgb(28, 70, 160);
+    color: white;
+    font-size: 30px;
+
+}
+.tiktoklink{
+    text-align: center;
+    background-color: rgb(28, 70, 160);
+    color: white;
+    font-size: 30px;
+    margin-left: 525px;
+  
+
+
+
+}    
+ul{
+    margin: 0%;
+    list-style-type: none;
+    padding: 0px;
+    border: 0px;
+    background-color:rgb(28, 70, 160);
+    
+    
+    
+  
+}
+li {
+    display: inline-block;   
+    margin: 0%;
+    text-decoration: none;
+    padding: 8px;
+    position: sticky;
+  
+
+}
+li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.active{
+    background-color: lightseagreen;
+}
+
+li a:hover{
+    background-color:dimgray;
+}
+
+footer{
+    color: black;
+    background-color: rgb(28, 70, 160);
+    margin-left: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin: 0px;
+    padding: 5px ;
+    border: 5px black;
+    font-size: 15px;
+    
+
+}
+
+.container{
+    margin: 10px auto;
+  
+}
+
+.img1{
+    float: left;
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+}
+.mytext{
+    font-size: 33px;
+    font-weight: bold;
+    color:black;
+    padding: 10px;
+    font-family: monospace;
+
+}
+
+.instagramacc{
+    font-size: 40px;
+    text-align:center;
+    color:black;
+    font-weight: bolder;
+
+}
+
+.instagramlink{
+    text-align: center;
+    background-color: rgb(28, 70, 160);
+    color: white;
+    font-size: 30px;
+    margin-left: 525px;
+
+}
+.footerlogo{
+    height: 40px;
+    width: 50px;
+    margin-left:1000px ;
+    border: 3px solid black;
+
+    
+}
+
+.template1{
+    height: 400px;
+    width: 350px;
+    margin: 35px ;
+    border:  5px solid black;
+    
+
+}
+
+.template2{
+    height: 400px;
+    width: 350px;
+    margin: 35px;
+    border:  5px solid black;
+    
+    
+}
+
+.template3{
+    height: 400px;
+    width: 350px;
+    margin:35px;
+    border:  5px solid black;
+    
+    
+}
+.templateex{
+    font-size: 30px;
+    color: black;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: white;
+
+}
+.endnote{
+    font-size: 30px;
+    color:black;
+    background-color: white;
+    font-family: monospace;
+    font-weight: bold;
+
+}
+
+
